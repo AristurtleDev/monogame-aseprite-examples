@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore packages dir for local package installs used by the example projects
+.nuget/
+
+

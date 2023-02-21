@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/whitleych17/Desktop/mga/monogame-aseprite-samples/examples/ContentPipelineExamples/ContentPipelineExample/Content/character_robot.aseprite</SourceFile>
-  <SourceTime>2023-02-20T10:47:34.2486414-05:00</SourceTime>
-  <DestFile>C:/Users/whitleych17/Desktop/mga/monogame-aseprite-samples/examples/ContentPipelineExamples/ContentPipelineExample/Content/bin/DesktopGL/Content/character_robot.xnb</DestFile>
-  <DestTime>2023-02-21T14:07:31.3164865-05:00</DestTime>
-  <Importer>AsepriteFileContentImporter</Importer>
-  <ImporterTime>2023-02-21T14:06:52.4238453-05:00</ImporterTime>
-  <Processor>AsepriteFileContentProcessor</Processor>
-  <ProcessorTime>2023-02-21T14:06:52.4238453-05:00</ProcessorTime>
-  <Dependencies />
-  <BuildAsset />
-  <BuildOutput />
-</PipelineBuildEvent>
+<?xml version="1.0" encoding="utf-8"?><PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><SourceFile>/Users/ChrisWhitley/Desktop/monogame-aseprite-examples/source/ContentPipelineExample/Content/character_robot.aseprite</SourceFile><SourceTime>2023-02-21T17:29:48.4760104-05:00</SourceTime><DestFile>/Users/ChrisWhitley/Desktop/monogame-aseprite-examples/source/ContentPipelineExample/Content/bin/DesktopGL/Content/character_robot.xnb</DestFile><DestTime>2023-02-21T17:39:30.2309259-05:00</DestTime><Importer>AsepriteFileContentImporter</Importer><ImporterTime>2023-02-21T17:39:11.0200979-05:00</ImporterTime><Processor>AsepriteFileContentProcessor</Processor><ProcessorTime>2023-02-21T17:39:11.0200979-05:00</ProcessorTime><Dependencies /><BuildAsset /><BuildOutput /></PipelineBuildEvent>

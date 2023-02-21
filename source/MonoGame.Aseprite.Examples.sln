@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentPipelineExample", "ContentPipelineExample\ContentPipelineExample.csproj", "{1DCBC681-FE75-4502-BC04-00547A70F8EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomProcessingExample", "CustomProcessingExample", "{3E75AF24-875B-474E-913C-9578BC8D3EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentProcessor", "CustomProcessingExample\ContentProcessor\ContentProcessor.csproj", "{E289DDA6-2BC9-4480-B345-B8304891FAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomProcessingExample", "CustomProcessingExample\CustomProcessingExample\CustomProcessingExample.csproj", "{41E2E94A-6E80-4E32-B595-B69D17F6437E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProcessorExamples", "ProcessorExamples", "{E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedTilemapProcessorExample", "ProcessorExamples\AnimatedTilemapProcessor\AnimatedTilemapProcessorExample.csproj", "{54701FD4-75EE-48C3-ACF8-A49F77C16C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteProcessorExample", "ProcessorExamples\SpriteProcessor\SpriteProcessorExample.csproj", "{AD29E15F-0496-4AAB-B8F8-735E6C332A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetProcessorExample", "ProcessorExamples\SpriteSheetProcessor\SpriteSheetProcessorExample.csproj", "{0607B98F-A1F0-49E7-9CFB-2FFD7239715E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureAtlasProcessorExample", "ProcessorExamples\TextureAtlasProcessor\TextureAtlasProcessorExample.csproj", "{EDE1A9B9-DE56-4E16-9D0D-7B1591266826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilemapProcessorExample", "ProcessorExamples\TilemapProcessor\TilemapProcessorExample.csproj", "{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilesetProcessorExample", "ProcessorExamples\TilesetProcessor\TilesetProcessorExample.csproj", "{395E3DE1-A632-42F7-BC0E-F5CD86108FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCBC681-FE75-4502-BC04-00547A70F8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCBC681-FE75-4502-BC04-00547A70F8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCBC681-FE75-4502-BC04-00547A70F8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCBC681-FE75-4502-BC04-00547A70F8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E289DDA6-2BC9-4480-B345-B8304891FAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E289DDA6-2BC9-4480-B345-B8304891FAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E289DDA6-2BC9-4480-B345-B8304891FAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E289DDA6-2BC9-4480-B345-B8304891FAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E2E94A-6E80-4E32-B595-B69D17F6437E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E2E94A-6E80-4E32-B595-B69D17F6437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E2E94A-6E80-4E32-B595-B69D17F6437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E2E94A-6E80-4E32-B595-B69D17F6437E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54701FD4-75EE-48C3-ACF8-A49F77C16C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54701FD4-75EE-48C3-ACF8-A49F77C16C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54701FD4-75EE-48C3-ACF8-A49F77C16C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54701FD4-75EE-48C3-ACF8-A49F77C16C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD29E15F-0496-4AAB-B8F8-735E6C332A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD29E15F-0496-4AAB-B8F8-735E6C332A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD29E15F-0496-4AAB-B8F8-735E6C332A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD29E15F-0496-4AAB-B8F8-735E6C332A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0607B98F-A1F0-49E7-9CFB-2FFD7239715E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0607B98F-A1F0-49E7-9CFB-2FFD7239715E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0607B98F-A1F0-49E7-9CFB-2FFD7239715E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0607B98F-A1F0-49E7-9CFB-2FFD7239715E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE1A9B9-DE56-4E16-9D0D-7B1591266826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE1A9B9-DE56-4E16-9D0D-7B1591266826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE1A9B9-DE56-4E16-9D0D-7B1591266826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE1A9B9-DE56-4E16-9D0D-7B1591266826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395E3DE1-A632-42F7-BC0E-F5CD86108FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395E3DE1-A632-42F7-BC0E-F5CD86108FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395E3DE1-A632-42F7-BC0E-F5CD86108FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395E3DE1-A632-42F7-BC0E-F5CD86108FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E289DDA6-2BC9-4480-B345-B8304891FAF7} = {3E75AF24-875B-474E-913C-9578BC8D3EA4}
+		{41E2E94A-6E80-4E32-B595-B69D17F6437E} = {3E75AF24-875B-474E-913C-9578BC8D3EA4}
+		{54701FD4-75EE-48C3-ACF8-A49F77C16C2B} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+		{AD29E15F-0496-4AAB-B8F8-735E6C332A7F} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+		{0607B98F-A1F0-49E7-9CFB-2FFD7239715E} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+		{EDE1A9B9-DE56-4E16-9D0D-7B1591266826} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+		{64056B2F-DA4E-4FB7-B069-08A0A9DC30A2} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+		{395E3DE1-A632-42F7-BC0E-F5CD86108FA5} = {E34AE54A-8D8C-4823-8BD8-9469F7A93CF2}
+	EndGlobalSection
+EndGlobal

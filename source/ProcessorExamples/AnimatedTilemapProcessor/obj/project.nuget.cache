@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWSHO3AATh4P8spg+MEIXfpmiZxVsyQQCVUVUs0LlBviD8OJfdoPQn091Mi9fkOk8jRBEHWCxMiwgclO+7h2PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whitleych17\\Desktop\\mga\\monogame-aseprite-samples\\source\\ProcessorExamples\\AnimatedTilemapProcessor\\AnimatedTilemapProcessorExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whitleych17\\.nuget\\packages\\monogame.aseprite\\4.0.0\\monogame.aseprite.4.0.0.nupkg.sha512",
+    "C:\\Users\\whitleych17\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\whitleych17\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,2 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/whitleych17/Desktop/mga/monogame-aseprite-samples/examples/ContentPipelineExamples/ContentPipelineExample/Content/character_robot.aseprite","C:/Users/whitleych17/Desktop/mga/monogame-aseprite-samples/examples/ContentPipelineExamples/ContentPipelineExample/Content/bin/DesktopGL/character_robot.xnb","AsepriteFileContentProcessor","ContentProcessorResult<byte[]>",156758,156871,0.0606933

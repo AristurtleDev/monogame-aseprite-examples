@@ -18,7 +18,6 @@ This example demonstrates how to use the MGCB Editor to import the Aseprite file
 
 ## Processor Examples
 
-[link to directory](./source/ProcessorExamples/)
 In the [/source/ProcessorExamples/](./source/ProcessorExamples/) directory you can find multiple projects that demonstrate how to use the built-in processors to process the Aseprite file as one of the built-in content types.
 
 ### Animated Tilemap Processor Example

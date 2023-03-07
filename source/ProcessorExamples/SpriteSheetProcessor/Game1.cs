@@ -52,6 +52,14 @@ public class Game1 : Game
         _walkCycle = _spriteSheet.CreateAnimatedSprite("walk");
         _runCycle = _spriteSheet.CreateAnimatedSprite("run");
         _attackCycle = _spriteSheet.CreateAnimatedSprite("attack");
+
+        //  Starting with Version 5.0.0, AnimatedSprite must be explicitly told to play
+        _walkCycle.Play();
+        _runCycle.Play();
+
+        //  You can even set a specific loop count.  setting this will override the "Repeat" value
+        //  set in Aseprite when using Aseprite 1.3-rc1.
+        _attackCycle.Play(3);
     }
 
     protected override void Update(GameTime gameTime)

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MonoGame.Aseprite" Version="4.0.0" />
+    <PackageReference Include="MonoGame.Aseprite" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
